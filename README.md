@@ -13,11 +13,11 @@ Futuro Programador.</h1>
 
 <h2 align = center>Social Medias:</h2>
 <div id = "SOCIALMEDIAICONS" align = "Center" style = "color: white;">
-<a href = "https://www.instagram.com/eltongusty/" target ="_blank"><img src = "https://uploaddeimagens.com.br/images/003/917/051/thumb/insta.png?1656253712" height = 100px/></a>
-<a href = "https://github.com/Elton-Gustavo" target ="_blank"><img src = "https://uploaddeimagens.com.br/images/003/917/059/thumb/git_chan.png?1656254767" height = 100px/></a>
+<a href = "https://www.instagram.com/eltongusty/" target ="_blank"><img src = "https://uploaddeimagens.com.br/images/003/917/051/thumb/insta.png?1656253712" height = 50px/></a>
+<a href = "https://github.com/Elton-Gustavo" target ="_blank"><img src = "https://uploaddeimagens.com.br/images/003/917/059/thumb/git_chan.png?1656254767" height = 50px/></a>
 </div>
   
 <h2 align = center> Learning</h2>
 <div id = "iconsTech" align = center>  
-<img src = "https://dicasdejava.com.br/images/logo-java.png" height = 120px/>
+<img src = "https://dicasdejava.com.br/images/logo-java.png" height = 100px/>
   </div>

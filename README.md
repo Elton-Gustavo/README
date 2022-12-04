@@ -19,7 +19,5 @@ Futuro Programador.</h1>
   
 <h2 align = center> Learning</h2>
 <div id = "iconsTech" align = center>  
-<img src = "https://cdn-icons-png.flaticon.com/512/174/174854.png" height = 40px/>
-<img src = "https://cdn-icons-png.flaticon.com/512/732/732190.png" height = 40px/>
-<img src = "https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height = 40px/>
+<img src = "[https://cdn-icons-png.flaticon.com/512/5968/5968350.png](https://inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo.png)" height = 40px/>
   </div>

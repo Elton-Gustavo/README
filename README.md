@@ -3,7 +3,7 @@
 Futuro Programador.</h1>
 
 <div align = center>
-<img src="https://avatars.githubusercontent.com/u/108223448?s=400&u=79f77021e8902d9c7e0e4846b428d429088a3101&v=4](https://github.com/account)" height = 400px/>
+<img src="https://avatars.githubusercontent.com/u/97633592?v=4" height = 400px/>
  </div>
 
 <h2>Sobre mim:</h2>
